@@ -33,3 +33,32 @@ I am from Ontario, I moved around throughout Ontario, never too far North though
 ![Cassidy living her best life at the beach](images/swimmingcassidy.JPG)
 ![Cassidy doing a film photoshoot with her best friend in montreal](images/filmcassidy.JPG)
 
+## Team member - Diego Rodriguez-Ramos
+
+London Ontario born and raised, lived in the same house for my entire life minus a few infant months. I'm 23 years old and a  graduate from the Television and Film course at Fanshawe College.
+
+**hobbies:**
+-Playing guitar
+-Photography
+-Video Games
+-Building Gunpla models
+-Reading Comics and Manga
+
+**some of my favorite things:**
+-My dog
+-My guitars
+-My PC
+-My family
+-Listening to music
+
+**skills:**
+1. Drawing
+2. Reliable
+3. A good problem solver
+
+## Some pictures I've taken!
+
+![bike](images/Bike.jpg)
+![boat](images/Boat.jpg)
+![coolcat](images/Coolcat.jpg)
+![compass](images/compass.jpg)
