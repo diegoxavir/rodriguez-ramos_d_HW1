@@ -38,18 +38,18 @@ I am from Ontario, I moved around throughout Ontario, never too far North though
 London Ontario born and raised, lived in the same house for my entire life minus a few infant months. I'm 23 years old and a  graduate from the Television and Film course at Fanshawe College.
 
 **hobbies:**
--Playing guitar
--Photography
--Video Games
--Building Gunpla models
--Reading Comics and Manga
+- Playing guitar
+- Photography
+- Video Games
+- Building Gunpla models
+- Reading Comics and Manga
 
 **some of my favorite things:**
--My dog
--My guitars
--My PC
--My family
--Listening to music
+- My dog
+- My guitars
+- My PC
+- My family
+- Listening to music
 
 **skills:**
 1. Drawing
