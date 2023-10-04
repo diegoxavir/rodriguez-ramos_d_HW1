@@ -60,5 +60,5 @@ London Ontario born and raised, lived in the same house for my entire life minus
 
 ![bike](images/Bike.jpg)
 ![boat](images/Boat.jpg)
-![coolcat](images/Coolcat.jpg)
+![coolcat](images/coolcat.jpg)
 ![compass](images/compass.jpg)
