@@ -23,9 +23,9 @@ I am from Ontario, I moved around throughout Ontario, never too far North though
 3. what my grandma would say is hard- headed but (never back down, never what?)
 
 ## Images that describe me
-![Cassidy on a hike in collingwood, Ontario](img/adventurecassidy.jpg)
-![Cassidy with her dog](img/bestfriendcassidy.jpg)
-![Cassidy in a Master Chief halo costume with a chef apron, cooking a clown baby](img/chefcassidy.jpg)
+![Cassidy on a hike in collingwood, Ontario](images/adventurecassidy.jpg)
+![Cassidy with her dog](images/bestfriendcassidy.jpg)
+![Cassidy in a Master Chief halo costume with a chef apron, cooking a clown baby](images/chefcassidy.jpg)
 ![Cassidy at a renissance fair in a handmade costume](images/costumecassidy.JPG)
 ![Cassidy squating 225lbs for the first time](images/liftingcassidy.jpg)
 ![Cassidy making friends with a baby raccoon](images/raccooncassidy.jpg)
